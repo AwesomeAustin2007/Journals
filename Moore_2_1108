@@ -1,0 +1,2 @@
+We started out with code for the lcd screen, we changed where the text would show up and we made the screen count down to 0 from 10
+We also added a speaker and blinking light which sync up with eachother in making an alarm effect.
